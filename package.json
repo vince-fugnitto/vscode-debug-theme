@@ -1,0 +1,22 @@
+{
+    "name": "theme-debug",
+    "displayName": "theme-debug",
+    "description": "",
+    "publisher": "vince-fugnitto",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Test: Debug Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Test Debug Theme-color-theme.json"
+            }
+        ]
+    }
+}
